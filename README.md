@@ -33,6 +33,7 @@ W bloku "GŁÓWNA LOGIKA PROGRAMU (MAIN)" usuń "." w input_csv_path i output_mo
  ```bash
    input_csv_path = './content/social_media_engagement_dataset.csv' -> input_csv_path = '/content/social_media_engagement_dataset.csv'
    output_model_path = './content/model_social_media.pkl' -> output_model_path = '/content/model_social_media.pkl'
+   output_regression_model_path = './content/regression_model_social_media.pkl' -> output_regression_model_path = '/content/regression_model_social_media.pkl'
  ```    
 
 > **Uwaga:** Po uruchomieniu notatnika pamiętaj, aby wgrać plik `social_media_engagement_dataset.csv` do sesji (panel po lewej stronie).
